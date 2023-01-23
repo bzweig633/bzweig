@@ -1,4 +1,3 @@
-remote_theme: moonharelabs/styless
-
+remote_theme: coogie/oscailte
 plugins:
 - jekyll-remote-theme
